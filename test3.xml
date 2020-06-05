@@ -1,4 +1,1 @@
-<testxml>
-                <username>admin</username>
-                <password>Admin$123</password>
-</textxml>
+<password value="Admin$123"></password>
